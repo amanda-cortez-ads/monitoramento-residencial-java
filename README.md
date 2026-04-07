@@ -15,7 +15,7 @@ Este projeto integra hardware (Arduino) e software (Java) para monitorar tempera
 
 ## 🔗 Links do Projeto
 * **Protótipo Figma:** 
-* **Circuito Tinkercad:** 
+* **Circuito Tinkercad:** https://www.tinkercad.com/things/7bOJT2ACvbg-projeto-monitoramento-residencial
 
 ## Autor
 * **Amanda Cortêz** - Aluna de Análise e Desenvolvimento de Sistemas.
